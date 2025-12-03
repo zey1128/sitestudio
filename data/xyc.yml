@@ -1,0 +1,168 @@
+- taxonomy: 官方网址
+  icon: far fa-star
+  links: 
+    - title: 幸运彩票
+      logo: XYC.PNG
+      url: https://xy188.vip/xywz1/
+      description: 幸运彩票官方网址
+    - title: 幸运客服
+      logo: inoreader.jpg
+      url: https://xy188.vip/xykf/
+      description: 一键直达幸运线上客服
+    - title: 幸运安卓APP
+      logo: 青椒云.jpg
+      url: https://xy188.vip/xyapp/
+      description: 一键下载安卓APP
+    - title: 幸运苹果APP
+      logo: human_interface_guidelines.png
+      url: https://ihnbf.pglxqe.com/app/qpo0GEk3mk/
+      description: 幸运彩苹果APP下载链接
+    - title: OKpay客服
+      logo: inoreader.jpg
+      url: https://xy188.vip/okkf/
+      description: OK钱包客服，一键直达
+    - title: TOpay客服
+      logo: ProcessOn.png
+      url: https://xy188.vip/tokf/
+      description: TO钱包客服，触手可及
+    - title: JDpay客服
+      logo: inoreader.jpg
+      url: https://xy188.vip/jdkf/
+      description: 京东钱包客服，一键直达
+    - title: GOpay客服
+      logo: ProcessOn.png
+      url: https://xy188.vip/gokf/
+      description: GO钱包客服，触手可及
+    - title: CBpay客服
+      logo: inoreader.jpg
+      url: https://xy188.vip/cbkf/
+      description: C币钱包客服，一键直达
+    - title: WBpay客服
+      logo: ProcessOn.png
+      url: https://xy188.vip/wbkf/
+      description: 万币钱包客服，触手可及
+    - title: 关注我们
+      logo: 关注.jpg
+      url: https://mp.weixin.qq.com/
+      qrcode: qrcode.jpg
+      description: 微信公众号：苏苏凡凡
+
+- taxonomy: 官方开奖网站
+  icon: far fa-random
+  links: 
+    - title: 新IG彩票开奖
+      logo: fa.jpg
+      url: https://dfaward888.com/record/BSC/IG3PK10/
+      description: 新IG彩票官方开奖网址
+    - title: 新澳门六合彩
+      logo: aomen.png
+      url: https://macaujc.com/
+      description: 新澳门六合彩官方开奖网 
+    - title: 香港六合彩资料大全
+      logo: hk2.png
+      url: https://6h2025.com/hk/
+      description: 香港六合彩官方开奖
+
+- taxonomy: 安卓安装包
+  icon: far fa-tablet-alt
+  list:
+    - term: 数字钱包
+      links:
+        - title: OKpay
+          logo: framer.png
+          url: https://csj.one/ok
+          description: OK钱包
+        - title: TOpay
+          logo: flinto.png
+          url: https://csj.one/to
+          description: TO钱包
+        - title: JDpay
+          logo: framer.png
+          url: https://csj.one/jd
+          description: 京东钱包
+        - title: KDpay
+          logo: flinto.png
+          url: https://sink007.webn.cc/kd/
+          description: K豆钱包
+        - title: CBpay
+          logo: framer.png
+          url: https://csj.one/cb
+          description: CB钱包
+        - title: GOpay
+          logo: flinto.png
+          url: https://csj.one/go
+          description: GO钱包
+        - title: OBpay
+          logo: framer.png
+          url: https://csj.one/ob
+          description: OB钱包
+        - title: AGpay
+          logo: flinto.png
+          url: https://csj.one/ag
+          description: AG钱包
+        - title: WBpay
+          logo: framer.png
+          url: https://csj.one/wb
+          description: 万币钱包
+        - title: OKX
+          logo: flinto.png
+          url: https://csj.one/oy
+          description: 欧易交易所
+    - term: VPN安装包&小聊
+      links:
+        - title: 快帆VPN
+          logo: ''
+          url: https://csj.one/kuaifan
+          description: 扬帆回国，快人一步
+        - title: 快连VPN
+          logo: ''
+          url: https://csj.one/kuailian
+          description: 永远能连上的VPN
+        - title: 任小聊
+          logo: ''
+          url: https://xy188.vip/xiaoliao
+          description: 端到端加密的内部安全通信
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: 优酷.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: 爱奇艺.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: https://tieba.baidu.com/index.html
+          description: 百度贴吧。
+    - term: 在线工具
+      links:
+        - title: IP138查询网
+          url: https://ip138.com/
+          logo: v2ex.jpg
+          description: 查询位置
+        - title: IPlark
+          url: https://iplark.com/
+          logo: v2ex.jpg
+          description: iplark

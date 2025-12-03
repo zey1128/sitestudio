@@ -1,0 +1,96 @@
+---
+
+- taxonomy: 网址推荐
+  icon: far fa-star
+  links:
+    - title: CSJ官网
+      logo: csjlogo.png
+      url: https://csj.one/wz/
+      description: 彩世界官网一键直达
+    - title: CSJ客服
+      logo: inoreader.jpg
+      url: https://csj.one/kf
+      description: 直达彩世界客服
+    - title: 彩世界安卓APP
+      logo: Android9patch.png
+      url: https://csj.one/app
+      description: CSJ安卓app安装包
+    - title: 彩世界苹果APP
+      logo: human_interface_guidelines.png
+      url: https://csj.one/appleapp
+      qrcode: qrcode.jpg
+      description: CSJ苹果APP 
+    - title: 小聊安卓包
+      logo: xiaoliao.png
+      url: https://csj.one/xiaoliao
+      description: 任小聊安卓安装包
+
+
+- taxonomy: 钱包安卓安装包
+  icon: fas fa-flask fa-lg
+  links:
+    - title: OKpay
+      logo: okpay.png
+      url: https://csj.one/ok
+      description: OK钱包一键下载
+    - title: OKpay客服
+      logo: kefu.png
+      url: https://xy188.vip/okkf/
+      description: 直达OK钱包客服      
+    - title: TOpay
+      logo: topay.png
+      url: https://csj.one/to
+      description: TO钱包一键下载
+    - title: TOpay客服
+      logo: kefu.png
+      url: https://xy188.vip/tokf/
+      description: 直达TO钱包客服     
+    - title: JDpay
+      logo: behance.png
+      url: https://csj.one/jd
+      description: 京东钱包一键下载
+    - title: KDpay
+      logo: kdpay.png
+      url: https://sink007.webn.cc/kd/
+      description: K豆钱包一键下载
+    - title: CBpay
+      logo: behance.png
+      url: https://csj.one/cb
+      description: CB钱包
+    - title: GOpay
+      logo: OnlineWebFonts.png
+      url: https://csj.one/go
+      description: GO钱包
+    - title: OBpay
+      logo: behance.png
+      url: https://csj.one/ob
+      description: OB钱包
+    - title: AGpay
+      logo: OnlineWebFonts.png
+      url: https://csj.one/ag
+      description: AG钱包
+    - title: WBpay
+      logo: behance.png
+      url: https://csj.one/wb
+      description: 万币钱包
+    - title: OKX交易所
+      logo: OnlineWebFonts.png
+      url: https://csj.one/oy
+      description: 欧易交易所
+      
+
+- taxonomy: VPN安卓安装包
+  icon: fas fa-flask fa-lg
+  links:
+    - title: 快帆VPN
+      logo: kuaifan.png
+      url: https://csj.one/kuaifan
+      description: 扬帆回国，快人一步
+    - title: 快连VPN
+      logo: kuailian.png
+      url: https://csj.one/kuailian
+      description: 永远能连上的VPN
+    - title: 网速测速
+      logo: zhuce.png
+      url: https://speed.030128.xyz/
+      description: 体验非一般速度
